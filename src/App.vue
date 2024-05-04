@@ -1,7 +1,7 @@
 <template>
   <div class="container flex flex-row" :data-theme="currentTheme">
     <!-- First Column: Coin Selection and Theme Switcher -->
-    <div class="flex-1 space-y-4">
+    <div class="flex-1 space-y-5">
       <h3>Market Order Book</h3>
 
       <!-- Theme Switcher -->
